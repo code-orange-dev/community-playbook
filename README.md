@@ -145,6 +145,8 @@ Rules: the subject approves before posting; tag the repo's maintainers when it g
 
 Joins → intro posts → first-session attendance → **second-session return** (the one that matters) → PRs on the dashboard. If second-session return doesn't move within two months, change the formats, not the effort.
 
+For the reusable 60-minute developer call, one canonical weekly scorecard, and the operator rhythm for the 90-Day First PR Challenge, see [Weekly Operating Rhythm](OPERATING_RHYTHM.md).
+
 ---
 
 *Made with 🧡 by [Code Orange Dev School](https://codeorange.dev) - Asia's Bitcoin developer pipeline. CC0: copy anything, ask nothing. If you run this playbook in your city, we'd love to hear about it: {contact}.*
