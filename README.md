@@ -2,7 +2,7 @@
 
 > **How we turn developers into Bitcoin open-source contributors - and how your community can too.**
 >
-> Built and battle-tested by [Code Orange Dev School](https://codeorange.dev) in Canggu, Bali. Our community has shipped 135+ PRs (96 merged) to Bitcoin Core, rust-bitcoin, rust-payjoin, BDK, LDK and more - every one tracked publicly on our [PR dashboard](https://github.com/code-orange-dev/PR-tracking-dashboard).
+> Built and battle-tested by [Code Orange Dev School](https://codeorange.dev) in Canggu, Bali. Our community has shipped 135+ PRs (106 merged, re-verified September 2026) to Bitcoin Core, rust-bitcoin, rust-payjoin, BDK, LDK and more - every one tracked publicly on our [PR dashboard](https://github.com/code-orange-dev/PR-tracking-dashboard).
 >
 > **License: CC0.** Fork it, translate it, run it in your city. If it helps, tell us - we love seeing this spread.
 
