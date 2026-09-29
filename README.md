@@ -2,7 +2,7 @@
 
 > **How we turn developers into Bitcoin open-source contributors - and how your community can too.**
 >
-> Built and battle-tested by [Code Orange Dev School](https://codeorange.dev) in Canggu, Bali. Our community has shipped 155+ PRs (131 merged, re-verified September 2026) to Bitcoin Core, rust-bitcoin, rust-payjoin, BDK, LDK and more - every one tracked publicly on our [PR dashboard](https://github.com/code-orange-dev/PR-tracking-dashboard).
+> Written by [Code Orange Dev School](https://codeorange.dev) in Canggu, Bali, from what we do in our own community. Contributions by our community members are tracked, with links, on our [PR dashboard](https://github.com/code-orange-dev/PR-tracking-dashboard).
 >
 > **License: CC0.** Fork it, translate it, run it in your city. If it helps, tell us - we love seeing this spread.
 
@@ -45,7 +45,7 @@ Three rules make everything else work:
 
 ### The 48-hour rule
 
-Within two days of every workshop, send attendees one message: what was covered (2 lines), one specific action for the week (a good-first-issue link, not "keep learning"), and the next session date. This single habit roughly doubles return attendance. Template:
+Within two days of every workshop, send attendees one message: what was covered (2 lines), one specific action for the week (a good-first-issue link, not "keep learning"), and the next session date. It helps people come back. Template:
 
 > Thanks for joining {workshop}! 🟠
 > **What we covered:** {2 lines}
@@ -81,7 +81,7 @@ A public, time-boxed challenge: open your first PR to a Bitcoin open-source proj
 
 ## Part 3 - Session formats that people talk about
 
-### 🔴🔵 Chain Analysis Wars (our flagship - 2 hours)
+### 🔴🔵 Chain Analysis Wars (2 hours)
 
 Split the room. **Blue Team** are merchants/activists transacting on signet, trying to preserve privacy. **Red Team** plays the chain-analysis firm trying to deanonymize them with mempool.space and clustering heuristics. Then swap.
 
@@ -149,4 +149,4 @@ For the reusable 60-minute developer call, one canonical weekly scorecard, and t
 
 ---
 
-*Made with 🧡 by [Code Orange Dev School](https://codeorange.dev) - Asia's Bitcoin developer pipeline. CC0: copy anything, ask nothing. If you run this playbook in your city, we'd love to hear about it: {contact}.*
+*Made with 🧡 by [Code Orange Dev School](https://codeorange.dev). CC0: copy anything, ask nothing. If you run this playbook in your city, we'd love to hear about it: {contact}.*
